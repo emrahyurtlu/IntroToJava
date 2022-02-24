@@ -1,7 +1,5 @@
 package datatypes.primitive.numeric.integral.character;
 
-import java.util.Locale;
-
 // 16 Bit
 // 0 -2^16 -1 = 65.535
 public class TypeChar {
